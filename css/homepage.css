@@ -1,0 +1,69 @@
+
+:root {
+  font-family:sans-serif;
+}
+
+body {
+  margin: 0px;
+  background-color:#1E1E1E;
+  color:white;
+}
+
+#Biscuitbar {
+  top:0%;
+  width:100%;
+  height:40px;
+  background-color:#2D2D2D;
+  margin-left:auto;
+  margin-right:auto;
+  margin-bottom: 30px;
+  text-align:center;
+  justify-content:center;
+}
+
+#signinbutton {
+  position:relative;
+  width:60px;
+  height:20px;
+  background-color:#2D2D2D;
+  color:white;
+  border:none;
+  outline:none;
+  float:right;
+  justify-content:center;
+  vertical-align:middle;
+  top:0%;
+}
+
+#biscuittext {
+  position:relative;
+  height:20px;
+  top:20%;
+  vertical-align:middle;
+}
+
+#promptone {
+  padding-bottom:20px;
+}
+#prompttwo {
+  padding-top:20px;
+}
+#promptone, #prompttwo {
+  padding-left:20%;
+}
+
+#paragraphone {
+  width:200px;
+  height:200px;
+  float:right;
+}
+#paragraphtwo {
+  float:right;
+  width:200px;
+  height:200px;
+}
+p {
+  /* margin-right:auto; */
+  padding-right:50%;
+}
+
